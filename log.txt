@@ -1,0 +1,10 @@
+2024/11/05 20:07:09.241324 [info] test: 1337
+2024/11/05 20:07:09.241324 [info] test 2: 1337
+2024/11/05 20:07:27.775335 [info] test: 1337
+2024/11/05 20:07:27.775335 [info] test 2: 1337
+2024/11/05 20:09:46.658338 [info] Logging an integer value: 100
+2024/11/05 20:09:46.658338 [info] Logging a string message: example string
+2024/11/05 20:09:46.658338 [info] Logging a hexadecimal value: 266
+2024/11/05 20:09:46.658338 [info] Logging a number with leading zeros: 00100
+2024/11/05 20:09:46.658338 [warning] Logging a float rounded to two decimal places: 3.14
+2024/11/05 20:09:46.658964 [error] Logging multiple values: 3.14, 00100, 266, example string
